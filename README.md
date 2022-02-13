@@ -11,7 +11,7 @@ A web site that offers search engine optimization and online marketing services.
 
 ## Website
 
-https://ShuanLim.github.io/horiseon/
+https://shuanlim.github.io/horiseon/
 
 ## Screenshot
 
